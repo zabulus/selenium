@@ -111,3 +111,6 @@ bazel-out
 bazel-selenium
 bazel-testlogs
 
+dotnet/packages/**/*
+dotnet/**/bin/**/*
+dotnet/**/obj/**/*
